@@ -1,0 +1,3 @@
+s="good day"
+print(s[2:])
+od day
