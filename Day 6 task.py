@@ -6,12 +6,14 @@ for i in n:
     i += 2
     print(i)
 
-'''2)Write a program to get the below pattern
+"""
+2)Write a program to get the below pattern
 54321
 4321
 321
 21
-1'''
+1
+"""
 
 rows = int(input("Enter the number of rows: "))  
 for i in range(0, rows + 1): 
@@ -67,8 +69,8 @@ else:
 #7)Write a program to convert the number of days to ages
 
 Days=int(input ("Enter Days:"))
-Ages=(int)(Days//365)
-print("Days to Ages:", Ages)
+Years=(int)(Days/365)
+print("Days to Years:", Years)
 
 #8)Solve Trigonometry problem using math function write a program to solve using math function
 
