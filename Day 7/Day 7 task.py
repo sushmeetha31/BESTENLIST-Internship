@@ -8,7 +8,7 @@ print(mm.my_list)
 
 #2)Install pandas package (try to import the package in a python file)
 
-#Installed succesfully
+#Installed successfully
 
 Collecting pandas
   Downloading pandas-1.1.4-cp39-cp39-win_amd64.whl (8.9 MB)
